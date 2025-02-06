@@ -7,7 +7,7 @@ public class Main {
         return a;
     }
 
-        return a*factorial(a-1);
+        return factorial(a-1)*a;
     }
 
 }
